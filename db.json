@@ -1,0 +1,11 @@
+{
+  "mails": [
+    {
+      "id": "e59a",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "subject": "Those",
+      "message": "and these"
+    }
+  ]
+}
