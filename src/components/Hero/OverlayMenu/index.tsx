@@ -13,7 +13,7 @@ const OverlayMenu: FC<OverlayMenuProps> = ({isAtHero, isVisible, toggleVisibilit
                   ${!isVisible && isAtHero ? 'block' : 'hidden'}`}
         onClick={toggleVisibility}>
       <span>👋</span>
-      <span className='text-white'>Hi I'm Ayush</span>
+      <span className='text-white'>Hi I&apos;m Ayush</span>
     </div>
   )
 }
